@@ -5,10 +5,10 @@
 
 <SideBar />
 <main class="h-screen w-full flex flex-col lg:flex-row items-center">
-  <section class="px-6 pt-14 flex flex-col justify-center h-full md:pl-60 xl:pl-72 lg:w-[calc(50%+208px)]">
+  <section class="px-6 pt-14 flex flex-col justify-center h-full lg:pl-60 xl:pl-72 lg:w-[calc(50%+208px)]">
     <h1 class="text-neon-500 lg:text-white text-3xl lg:text-6xl font-semibold lg:font-outline">Hi there, I'm</h1>
     <h2 class="text-white text-6xl lg:text-8xl font-extrabold mt-5 lg:mt-4">Tony Spunei</h2>
-    <h2 class="text-neon-500 lg:text-white text-xl lg:text-7xl leading-[71%] font-semibold lg:font-outline mt-7">Front-end <br class="hidden lg:block"/>Developer</h2>
+    <h2 class="text-neon-500 lg:text-white text-xl lg:text-7xl md:leading-[71%] lg:leading-[71%] font-semibold lg:font-outline mt-7">Front-end <br class="hidden lg:block"/>Developer</h2>
     <p class="text-lg md:text-2xl xl:text-3xl font-bold w-full xl:w-4/6 pt-5 lg:mt-14">
       Seasoned front-end dev blending innovative tech with sustainable design for impactful digital solutions.
     </p>
