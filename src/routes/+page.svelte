@@ -3,6 +3,17 @@
   import Work from "$lib/components/ui/Work.svelte";
   import Layout from "$lib/components/layout/Layout.svelte";
 
+  const work = [
+    {
+      heading: "Places to BVB",
+      subheading: "Watch the Final",
+      description: "Led the frontend development for BVB's international fan map, enabling fans worldwide to find and connect at locations to watch the Champions League final 2024, ensuring rapid deployment and seamless user experience.",
+      role: "Frontend Development, User Experience",
+      website: "https://placetobvb.bvb.de/",
+      image: "/images/placetobvb.jpg"
+    }
+  ];
+
 </script>
 
 <SideBar />
@@ -27,5 +38,7 @@
     </div>
   </Layout>
 
-  <Work />
+  {#each work as content}
+    <Work {content} />
+  {/each}
 </main>
