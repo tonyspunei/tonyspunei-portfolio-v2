@@ -11,6 +11,14 @@
       role: "Frontend Development, User Experience",
       website: "https://placetobvb.bvb.de/",
       image: "/images/placetobvb.jpg"
+    },
+    {
+      heading: "IBC",
+      subheading: "Insurance Bureau of Canada",
+      description: "Led the frontend development for IBC's new website, ensuring a seamless user experience and a responsive design that adapts to various devices.",
+      role: "Frontend Development, CMS Development, User Experience",
+      website: "https://www.ibc.ca/",
+      image: "/images/ibc.png"
     }
   ];
 
