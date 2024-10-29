@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Calculate Anything",
+    "author": "Biati Digital",
+    "url": "https://alfred.app/workflows/biatidigital/calculate-anything/"
+  },
+  {
+    "name": "Coffee Coffee",
+    "author": "Vitor Galvao",
+    "url": "https://alfred.app/workflows/vitor/coffee-coffee/"
+  },
+  {
+    "name": "Color Picker",
+    "author": "Patrick Sy",
+    "url": "https://alfred.app/workflows/zeitlings/color-picker/"
+  },
+  {
+    "name": "Colors",
+    "author": "Tyler Eich",
+    "url": "https://github.com/TylerEich/Alfred-Extras/blob/master/Workflows/Colors.alfredworkflow"
+  },
+  {
+    "name": "Deepl-Translate",
+    "author": "Alexander Willner",
+    "url": "https://alfred.app/workflows/alexanderwillner/deepl-translate/"
+  },
+  {
+    "name": "Findmoji",
+    "author": "Michael Scott",
+    "url": "https://alfred.app/workflows/rknightuk/findmoji/"
+  },
+  {
+    "name": "Hackerboard",
+    "author": "Vitor Galvao",
+    "url": "https://alfred.app/workflows/vitor/hackerboard/"
+  },
+  {
+    "name": "HTTP Status Codes",
+    "author": "Robb Knight",
+    "url": "https://alfred.app/workflows/rknightuk/http-status-codes/"
+  },
+  {
+    "name": "Link Cleaner",
+    "author": "Vitor Galvao",
+    "url": "https://alfred.app/workflows/vitor/link-clean/"
+  },
+  {
+    "name": "Lorem Ipsum",
+    "author": "Alex Chan",
+    "url": "https://alfred.app/workflows/alexchantastic/lorem-ipsum/"
+  },
+  {
+    "name": "OCR",
+    "author": "Alan He",
+    "url": "https://alfred.app/workflows/alanhe/ocr/"
+  },
+  {
+    "name": "Open Arc Tab",
+    "author": "Leonard Manzara",
+    "url": "https://alfred.app/workflows/lcmanzara/open-arc-tab/"
+  },
+  {
+    "name": "Password Generator",
+    "author": "Fede Calendino",
+    "url": "https://alfred.app/workflows/fedecalendino/password-generator/"
+  },
+  {
+    "name": "Shazam",
+    "author": "svenko99",
+    "url": "https://alfred.app/workflows/svenko99/shazam/"
+  },
+  {
+    "name": "Shrieking Chimes",
+    "author": "Vitor Galvao",
+    "url": "https://alfred.app/workflows/vitor/shrieking-chimes/"
+  },
+  {
+    "name": "Spel",
+    "author": "Nathan",
+    "url": "https://alfred.app/workflows/floatingpoint/spel/"
+  },
+  {
+    "name": "Sysmte Settings",
+    "author": "Vitor Galvao",
+    "url": "https://alfred.app/workflows/alfredapp/system-settings/"
+  }
+]
+
