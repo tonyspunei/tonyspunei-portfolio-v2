@@ -19,6 +19,14 @@
       role: "Frontend Development, CMS Development, User Experience",
       website: "https://www.ibc.ca/",
       image: "/images/ibc.png"
+    },
+    {
+      heading: "META Regalbau",
+      subheading: "Rebranding and Web Development",
+      description: "Developed META Regalbau's new website as part of their rebranding, combining modern design with improved usability to strengthen their market presence.",
+      role: "Full-Stack Development, Web Development, CMS Integration",
+      website: "https://www.meta-online.com/",
+      image: "/images/meta.png"
     }
   ];
 

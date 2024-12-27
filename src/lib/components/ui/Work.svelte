@@ -6,7 +6,7 @@
 
 <Layout id="work">
   {#snippet dark()}
-    <div  class="pt-20 lg:pt-10 flex flex-col gap-14">
+    <div  class="pt-20 lg:pt-10 flex flex-col gap-14 h-full">
       {#if index === 0}
         <h2 class="text-white text-6xl lg:text-8xl tracking-wide font-extrabold">My Work</h2>
       {/if}
@@ -46,6 +46,7 @@
                   transition ease-in-out duration-300 
                   hover:bg-black hover:border-neon-500 hover:text-white 
                   focus:outline-none focus:ring focus:ring-sky-500 focus:ring-offset-3" 
+                target="_blank"
                 href={content.website}
               >
                 Go To Website
